@@ -78,9 +78,7 @@ However, the methodology, insights, and results are fully documented in the repo
 
 ## Reproducibility
 
-This project was implemented using KNIME workflows.
-
-Due to the unavailability of the dataset, the analysis cannot be directly reproduced. However, the methodology can be applied to similar datasets.
+The analysis was performed using KNIME workflows. While the original dataset is not available, the methodology and insights can be applied to similar datasets.
 
 ---
 
